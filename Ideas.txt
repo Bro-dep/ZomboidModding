@@ -6,6 +6,9 @@ Base defenses-
     Barricades
     Shields, Barbed fences, Walls, Gates, sand bags
     Fire proof walls- Stone, metal, concrete
+
+    Drawbridges
+
     Defensive Walls/tiles
         - Armored Windows
         - Armored Doors
