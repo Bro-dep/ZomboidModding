@@ -3,8 +3,13 @@ Zomboid Ideas:
 
 
 Base defenses-
+    Barricades
     Shields, Barbed fences, Walls, Gates, sand bags
     Fire proof walls- Stone, metal, concrete
+    Defensive Walls/tiles
+        - Armored Windows
+        - Armored Doors
+        - Electric fences
     Tools
         - Shovels Dig moats or make short Walls
         - Pickaxes Dig moats or make short Walls
@@ -21,7 +26,9 @@ Base defenses-
         - Fire
         Wall traps
         - Oil buckets
-        - 
+        - Spikes
+        - Mechanical spikes(fortnite spikes)
+
 
 Modular cars
 Modular Weapons
