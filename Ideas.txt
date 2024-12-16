@@ -29,6 +29,8 @@ Base defenses-
         - Spikes
         - Mechanical spikes(fortnite spikes)
 
+All items will have tiers of durability and damage based on player stats and profession.
+
 
 Modular cars
 Modular Weapons
